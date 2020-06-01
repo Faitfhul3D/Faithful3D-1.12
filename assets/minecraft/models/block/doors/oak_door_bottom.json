@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench by Howler",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "blocks/door_wood_lower",
-		"texture": "blocks/door_wood_lower",
+		"particle": "blocks/door_oak_lower",
+		"texture": "blocks/door_oak_lower",
 		"texture1": "blocks/oak_door_special"
 	},
 	"elements": [
